@@ -22,3 +22,6 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+/gostrip/gostrip
+/genkodinfo/genkodinfo
